@@ -89,6 +89,8 @@ Body
 }
 ```
 
+We don't have APIs for sign-in/sign-up, it is up to you to decide the best way to handle it.
+
 Note: both POST APIs do not update internal resources as it would affect other candidates, thus such APIs are for demonstration only.
 
 ## **Submission Guidelines**
