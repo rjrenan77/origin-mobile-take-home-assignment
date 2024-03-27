@@ -63,13 +63,16 @@ You should have Git, NodeJS and yarn in addition to React Native configuration o
 
 ➜  git checkout main
 
-2 - Install the dependencies:
+3- IMPORTANT:
+➜ you'll need to insert the -line 35- 'google_map_key' (sent by email) in AndroidManifest.xml in order to Google maps work.
+
+4 - Install the dependencies:
 
 ➜  yarn;
 
 ➜  yarn pod-install;
 
-3 - build
+5 - build
 
 ➜ yarn android;
 
