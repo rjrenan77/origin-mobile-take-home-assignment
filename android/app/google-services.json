@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589686974805",
+    "project_id": "originassessment-57005",
+    "storage_bucket": "originassessment-57005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589686974805:android:0e24881e2d39c91a6127dc",
+        "android_client_info": {
+          "package_name": "com.originassessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHdDTlXZzdW1-PZOyWY-te3F1INHZwzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
